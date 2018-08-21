@@ -5,7 +5,7 @@
 
 ### API
 | 方法 | 说明 | 类型 |
-|---|---|---|---|
+|---|---|---|
 |isWeixinBrowser | 微信浏览器 | boolean |
 |isAlipayBrowser | 支付宝 | boolean |
 |isAppClient | App客户端 | boolean |
