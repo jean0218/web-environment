@@ -1,9 +1,12 @@
 ## web-environment
 
-### 说明
+## 说明
 判断web当前运行的平台环境
 
-### API
+## 安装
+npm insall web-environment
+
+## API
 | 方法 | 说明 | 类型 |
 |---|---|---|
 |isWeixinBrowser | 微信浏览器 | boolean |

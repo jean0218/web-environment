@@ -1,6 +1,6 @@
 {
   "name": "web-environment",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "jean0218@qq.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jean0218/web-platform/issues"
+    "url": "https://github.com/jean0218/web-environment/issues"
   },
-  "homepage": "https://github.com/jean0218/web-platform#readme"
+  "homepage": "https://github.com/jean0218/web-environment#readme"
 }
